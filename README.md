@@ -1,0 +1,1 @@
+This is some sample github repository to get familiar with the usage of GITHUB
